@@ -1,0 +1,20 @@
+import math
+
+catetoOposto = float(input("Digite um valor para o cateto oposto"))
+catetoAdjacente = float(input("Digite um valor para o cateto adjacente"))
+
+hipotenusa = math.sqrt((math.pow(catetoOposto,2))+(math.pow(catetoAdjacente,2)))
+
+print("O valor da hipotenusa é: {:.2f}".format(hipotenusa))
+
+# Outras formas de fazerem
+
+hipotenusaOutraForma = (catetoOposto ** 2 + catetoAdjacente ** 2) ** (1/2)
+
+print("O valor de hipotenusa é: {:.2f}".format(hipotenusaOutraForma))
+
+# Outra forma de fazer
+
+hipotenusaOutraForma2 = math.hypot(catetoOposto,catetoAdjacente)
+
+print("O valor de hipotenusa é: {:.2f}".format(hipotenusaOutraForma2))
