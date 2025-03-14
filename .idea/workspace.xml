@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca0fa3a-d162-4689-947d-0a9563799cb7" name="Changes" comment="Estudo de python com curso">
-      <change afterPath="$PROJECT_DIR$/ex018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/som.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex025.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,42 +47,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ex002.executor": "Run",
-    "Python.ex003.executor": "Run",
-    "Python.ex004.executor": "Run",
-    "Python.ex005.executor": "Run",
-    "Python.ex006.executor": "Run",
-    "Python.ex007.executor": "Run",
-    "Python.ex008.executor": "Run",
-    "Python.ex009.executor": "Run",
-    "Python.ex010.executor": "Run",
-    "Python.ex011.executor": "Run",
-    "Python.ex012.executor": "Run",
-    "Python.ex013.executor": "Run",
-    "Python.ex014.executor": "Run",
-    "Python.ex015.executor": "Run",
-    "Python.ex016.executor": "Run",
-    "Python.ex017.executor": "Run",
-    "Python.ex018.executor": "Run",
-    "Python.ex019.executor": "Run",
-    "Python.ex020.executor": "Run",
-    "Python.ex021.executor": "Run",
-    "Python.ex022.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/joaog/PycharmProjects/CursoPython",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/joaog/PycharmProjects/CursoPython&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\joaog\PycharmProjects\CursoPython" />
@@ -122,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741800040088</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Estudo de python com curso">
+      <option name="closed" value="true" />
+      <created>1741813511861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741813511861</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
