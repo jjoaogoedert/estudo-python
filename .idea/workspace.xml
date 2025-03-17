@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca0fa3a-d162-4689-947d-0a9563799cb7" name="Changes" comment="Estudo de python com curso">
-      <change afterPath="$PROJECT_DIR$/ex033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex045OutraForma.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex036.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex036.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +90,15 @@
     "Python.ex034.executor": "Run",
     "Python.ex035.executor": "Run",
     "Python.ex036.executor": "Run",
+    "Python.ex037.executor": "Run",
+    "Python.ex038.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
+    "Python.ex044.executor": "Run",
+    "Python.ex045.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -197,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742136353027</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Estudo de python com curso">
+      <option name="closed" value="true" />
+      <created>1742139891709</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742139891709</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
