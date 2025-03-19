@@ -1,0 +1,8 @@
+# Define que todos os arquivos .py pertencem à linguagem Python
+*.py linguist-language=Python
+
+# Ignora arquivos de cache do Python ao contar a linguagem principal
+__pycache__/ linguist-vendored
+*.pyc linguist-vendored
+*.pyo linguist-vendored
+*.pyd linguist-vendored
