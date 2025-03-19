@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca0fa3a-d162-4689-947d-0a9563799cb7" name="Changes" comment="Estudo de python com curso">
-      <change afterPath="$PROJECT_DIR$/gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex052OutraForma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +106,12 @@
     "Python.ex049.executor": "Run",
     "Python.ex050.executor": "Run",
     "Python.ex051.executor": "Run",
+    "Python.ex052.executor": "Run",
+    "Python.ex052OutraForma.executor": "Run",
+    "Python.ex053.executor": "Run",
+    "Python.ex054.executor": "Run",
+    "Python.ex055.executor": "Run",
+    "Python.ex056.executor": "Run",
     "Python.main.executor": "Run",
     "Python.testeHello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -267,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742398483196</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Estudo de python com curso">
+      <option name="closed" value="true" />
+      <created>1742398848218</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1742398848218</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
