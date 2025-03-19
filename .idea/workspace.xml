@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca0fa3a-d162-4689-947d-0a9563799cb7" name="Changes" comment="Estudo de python com curso">
-      <change afterPath="$PROJECT_DIR$/testeHello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/somFoguete.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +101,14 @@
     "Python.ex044.executor": "Run",
     "Python.ex045.executor": "Run",
     "Python.ex045OutraForma.executor": "Run",
+    "Python.ex046.executor": "Run",
+    "Python.ex047.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex049.executor": "Run",
+    "Python.ex050.executor": "Run",
+    "Python.ex051.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.testeHello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "Modulo-2",
@@ -109,6 +123,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\joaog\PycharmProjects\CursoPython" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\joaog\PycharmProjects\CursoPython" />
     </key>
   </component>
@@ -240,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742241849891</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Estudo de python com curso">
+      <option name="closed" value="true" />
+      <created>1742242084149</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742242084149</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
