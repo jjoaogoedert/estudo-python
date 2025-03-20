@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca0fa3a-d162-4689-947d-0a9563799cb7" name="Changes" comment="Estudo de python com curso">
-      <change afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex052OutraForma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -286,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742398848218</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Estudo de python com curso">
+      <option name="closed" value="true" />
+      <created>1742414615175</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1742414615175</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
