@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca0fa3a-d162-4689-947d-0a9563799cb7" name="Changes" comment="Estudo do modulo 3 tuplas">
-      <change afterPath="$PROJECT_DIR$/ex076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex077.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex076.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex076.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +127,7 @@
     "Python.ex074.executor": "Run",
     "Python.ex075.executor": "Run",
     "Python.ex076.executor": "Run",
+    "Python.ex077.executor": "Run",
     "Python.main.executor": "Run",
     "Python.testeHello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -380,7 +382,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743632216951</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Estudo do modulo 3 tuplas">
+      <option name="closed" value="true" />
+      <created>1744213449661</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1744213449661</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
