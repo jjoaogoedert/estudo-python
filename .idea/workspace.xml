@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca0fa3a-d162-4689-947d-0a9563799cb7" name="Changes" comment="Estudo do modulo 3 tuplas">
+      <change afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +28,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/jjoaogoedert/estudo-python.git&quot;,
@@ -123,6 +124,7 @@
     "Python.ex075.executor": "Run",
     "Python.ex076.executor": "Run",
     "Python.ex077.executor": "Run",
+    "Python.ex078.executor": "Run",
     "Python.main.executor": "Run",
     "Python.testeHello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -401,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744718059524</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Estudo do modulo 3 tuplas">
+      <option name="closed" value="true" />
+      <created>1744804356591</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1744804356591</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
