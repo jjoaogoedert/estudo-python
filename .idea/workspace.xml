@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca0fa3a-d162-4689-947d-0a9563799cb7" name="Changes" comment="Estudo do modulo 3 tuplas">
-      <change afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex079.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Modulo-2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,11 +125,12 @@
     "Python.ex076.executor": "Run",
     "Python.ex077.executor": "Run",
     "Python.ex078.executor": "Run",
+    "Python.ex079.executor": "Run",
     "Python.main.executor": "Run",
     "Python.testeHello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Modulo-2",
+    "git-widget-placeholder": "Modulo-3",
     "last_opened_file_path": "C:/Users/joaog/PycharmProjects/CursoPython",
     "settings.editor.selected.configurable": "terminal"
   },
@@ -411,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744804356591</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Estudo do modulo 3 tuplas">
+      <option name="closed" value="true" />
+      <created>1745420346144</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1745420346145</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
