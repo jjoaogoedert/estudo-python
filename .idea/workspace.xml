@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca0fa3a-d162-4689-947d-0a9563799cb7" name="Changes" comment="Estudo do modulo 3 lista">
-      <change afterPath="$PROJECT_DIR$/ex083.py" afterDir="false" />
+    <list default="true" id="2ca0fa3a-d162-4689-947d-0a9563799cb7" name="Changes" comment="Estudo do modulo 3 tuplas">
+      <change afterPath="$PROJECT_DIR$/Projeto 1/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jogo_adivinhacao/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jogo_adivinhacao/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jogo_adivinhacao/perdeu.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,11 +128,8 @@
     "Python.ex076.executor": "Run",
     "Python.ex077.executor": "Run",
     "Python.ex078.executor": "Run",
-    "Python.ex079.executor": "Run",
-    "Python.ex080.executor": "Run",
-    "Python.ex081.executor": "Run",
-    "Python.ex082.executor": "Run",
-    "Python.ex083.executor": "Run",
+    "Python.index.executor": "Run",
+    "Python.interface.executor": "Run",
     "Python.main.executor": "Run",
     "Python.testeHello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -149,6 +149,7 @@
       <recent name="C:\Users\joaog\PycharmProjects\CursoPython" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joaog\PycharmProjects\CursoPython\jogo_adivinhacao" />
       <recent name="C:\Users\joaog\PycharmProjects\CursoPython" />
     </key>
   </component>
@@ -416,31 +417,7 @@
       <option name="project" value="LOCAL" />
       <updated>1744804356591</updated>
     </task>
-    <task id="LOCAL-00032" summary="Estudo do modulo 3 tuplas">
-      <option name="closed" value="true" />
-      <created>1745420346144</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1745420346145</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Estudo do modulo 3 lista">
-      <option name="closed" value="true" />
-      <created>1745871534119</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1745871534119</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Estudo do modulo 3 lista">
-      <option name="closed" value="true" />
-      <created>1745938518435</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1745938518435</updated>
-    </task>
-    <option name="localTasksCounter" value="35" />
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -449,8 +426,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Estudo de python com curso" />
     <MESSAGE value="Estudo do modulo 3 tuplas" />
-    <MESSAGE value="Estudo do modulo 3 lista" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estudo do modulo 3 lista" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudo do modulo 3 tuplas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
